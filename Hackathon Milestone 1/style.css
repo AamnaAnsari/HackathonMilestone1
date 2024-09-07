@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: rgb(218, 84, 107);
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+/* /////////Profile pic css/////////// */
+#profile-pic {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+/* ///////Different sections//////////// */
+section {
+    background-color: rgb(218, 84, 107);
+    margin: 1em;
+    padding: 1em;
+    border-radius: 5px;
+    color: white;
+}
+/* ///////////Button to show or hide skills///////////// */
+button {
+    display: block;
+    margin: 1em auto;
+    padding: 0.5em 1em;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgb(218, 84, 107);   
+    color: white;
+  border-color: blue;
+}
+.greet{
+   text-align: center;
+    color: rgb(218, 84, 107);
+}
+
